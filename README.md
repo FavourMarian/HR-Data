@@ -14,7 +14,7 @@ The primary goal of this project analysis is to identify key factors contributin
 The data used in this project was obtained from the Incubator Hub. It includes important information such as attrition, educational field, departmnt, job role, age range, gender.
 
 ### Data Collection
-The data used was collected and complied through transaction logging. This ensures that the dataset represents an accurate record of employee interactions and attrition patterns over time.
+The data used was collected and complied through transaction logging. This ensures that the dataset represents an accurate record of employee interactions and attrition patterns over time, it was imported from excel.
 
 ### Data Characteristics
 The dataset includes some of the following variables:
@@ -51,6 +51,13 @@ The dataset includes some of the following variables:
 4. Attrition Rate : 16%
 5. Average Age : 37
 
+## METHODOLOGY
+### Data Preparation and Cleaning
+1. Changed data type
+2. Promoted headers
+3. Added conditional columns
+4. Removed unwanted columns to ensure data quality
+5. Renamed columns
 
 ## TOOLS USED
 1. Microsoft Excel: Used for data cleaning, analysis and creating pivot visualization [DOWNLOAD HERE](HTTP://WWW.MICROSOFT.COM/EN-US/MICROSOFT-365/EXCEL)
@@ -62,7 +69,8 @@ The dataset includes some of the following variables:
 ![HR data](https://github.com/FavourMarian/HR-Data/blob/main/HR%20data.png?raw=true)
 ![HR data 2](https://github.com/FavourMarian/HR-Data/blob/main/HR%20data%202.png)
 
-
+## Data Analysis and Insight Generation
+1. Turnover Analysis : This visualization shows that the department with the highest attrition count is the R&D department with a total of 133 attrition employees leaving behind 828 employees who remained but surprisingly have the lowest attrition rate of 14%. Sales department on the other has the highest attrition rate of 21% and an attrition count of 92 employees. 
 
 ## ADDITIONAL RESOURCES
 1. Excel file [Click Here](https://github.com/FavourMarian/HR-Data/blob/main/HR%20Data(1).xlsx)
