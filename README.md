@@ -72,10 +72,10 @@ The dataset includes some of the following variables:
 
 ## Data Analysis and Insight Generation
 1. Attrition Analysis : This visualization shows attrition rates across departments and job roles. The Sales department has the highest attrition rate of 21% while the R&D department has the lowest attrition rate. when it comes to job role, Sales Representatives have the highest attrition rate of 40% and Research Directors have the lowest attrition rate of 3%, this help to pinpoint the departments that need the most attention and intervention. The entry level employees particularly have the highest attrition rates of 26.34% which may be as a result of work-related stress or dissatisfaction.
-   RECOMENDATION : Implement employee support systems and role adjustments in high attrition departments to improve employee satisfaction and aid retention. Also consider developing mentorship programs for younger and entry-level employees to encourage growth and retain talents in the long term.
+RECOMENDATION : Implement employee support systems and role adjustments in high attrition departments to improve employee satisfaction and aid retention. Also consider developing mentorship programs for younger and entry-level employees to encourage growth and retain talents in the long term.
 
 2. Satisfaction correlation to Attrition : This Visualization also shows that entry-level employees are more dissatisfied with a thing or two about the company which correlate the fact that they have the highest attrition rate across departments and job roles. This implies that low job satisfaction tends to lead to attrition and that it is also a critical factor in retention.
-   RECOMMENDATION : Create more initiates and activities to boost job satisfaction and focus on improving workplace environment especially in the entry-level positions where new little to no-experienced recruits tend to leave easily than experienced and long-time employees. this helps to boost retention.
+RECOMMENDATION : Create more initiates and activities to boost job satisfaction and focus on improving workplace environment especially in the entry-level positions where new little to no-experienced recruits tend to leave easily than experienced and long-time employees. this helps to boost retention.
 
 
 ## CONCLUSION 
