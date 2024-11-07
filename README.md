@@ -70,7 +70,15 @@ The dataset includes some of the following variables:
 ![HR data 2](https://github.com/FavourMarian/HR-Data/blob/main/HR%20data%202.png)
 
 ## Data Analysis and Insight Generation
-1. Turnover Analysis : This visualization shows that the department with the highest attrition count is the R&D department with a total of 133 attrition employees leaving behind 828 employees who remained but surprisingly have the lowest attrition rate of 14%. Sales department on the other has the highest attrition rate of 21% and an attrition count of 92 employees. 
+1. Attrition Analysis : This visualization shows attrition rates across departments and job roles. The Sales department has the highest attrition rate of 21% while the R&D department has the lowest attrition rate. when it comes to job role, Sales Representatives have the highest attrition rate of 40% and Research Directors have the lowest attrition rate of 3%, this help to pinpoint the departments that need the most attention and intervention. The entry level employees particularly have the highest attrition rates of 26.34% which may be as a result of work-related stress or dissatisfaction.
+   RECOMENDATION : Implement employee support systems and role adjustments in high attrition departments to improve employee satisfaction and aid retention. Also consider developing mentorship programs for younger and entry-level employees to encourage growth and retain talents in the long term.
+
+2. Satisfaction correlation to Attrition : This Visualization also shows that entry-level employees are more dissatisfied with a thing or two about the company which correlate the fact that they have the highest attrition rate across departments and job roles. This implies that low job satisfaction tends to lead to attrition and that it is also a critical factor in retention.
+   RECOMMENDATION : Create more initiates and activities to boost job satisfaction and focus on improving workplace environment especially in the entry-level positions where new little to no-experienced recruits tend to leave easily than experienced and long-time employees. this helps to boost retention.
+
+
+## CONCLUSION 
+This analysis provides valuable insights into the HR dynamics within job category and role, highlighting areas such as workload and workplace satisfaction that can directly impact employee attrition and satisfaction. By understanding these trends, the organization can develop targeted strategies to support the employees, reduce attrition, and boost retention. These insights will be the key steps in retaining skilled talents and strengthening the organization's overall performance. 
 
 ## ADDITIONAL RESOURCES
 1. Excel file [Click Here](https://github.com/FavourMarian/HR-Data/blob/main/HR%20Data(1).xlsx)
