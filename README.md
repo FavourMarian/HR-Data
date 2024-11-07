@@ -66,8 +66,9 @@ The dataset includes some of the following variables:
 
 ## ANALYSIS
 ### Dashboard Overview
-![HR data](https://github.com/FavourMarian/HR-Data/blob/main/HR%20data.png?raw=true)
-![HR data 2](https://github.com/FavourMarian/HR-Data/blob/main/HR%20data%202.png)
+![HR data 3.0](https://github.com/FavourMarian/HR-Data/blob/main/HR%20Data%203.0.png)
+![HR data 3](https://github.com/FavourMarian/HR-Data/blob/main/HR%20Data%203.png)
+
 
 ## Data Analysis and Insight Generation
 1. Attrition Analysis : This visualization shows attrition rates across departments and job roles. The Sales department has the highest attrition rate of 21% while the R&D department has the lowest attrition rate. when it comes to job role, Sales Representatives have the highest attrition rate of 40% and Research Directors have the lowest attrition rate of 3%, this help to pinpoint the departments that need the most attention and intervention. The entry level employees particularly have the highest attrition rates of 26.34% which may be as a result of work-related stress or dissatisfaction.
@@ -82,7 +83,7 @@ This analysis provides valuable insights into the HR dynamics within job categor
 
 ## ADDITIONAL RESOURCES
 1. Excel file [Click Here](https://github.com/FavourMarian/HR-Data/blob/main/HR%20Data(1).xlsx)
-2. Power BI [Click Here](https://github.com/FavourMarian/HR-Data/blob/main/HR%20data%20project.pbix)
+2. Power BI [Click Here](https://github.com/FavourMarian/HR-Data/blob/main/HR%20data%20project%202.pbix)
 
 
 
